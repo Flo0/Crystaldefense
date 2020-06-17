@@ -1,0 +1,274 @@
+
+combined.png
+size: 128,64
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+areas/3x3
+  rotate: false
+  xy: 1, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+areas/3x3_red
+  rotate: false
+  xy: 51, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+
+combined2.png
+size: 128,128
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+cursor/cursor_normal
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+
+combined3.png
+size: 64,32
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+machines/canon
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+machines/mine
+  rotate: false
+  xy: 19, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+machines/steel_factory
+  rotate: false
+  xy: 37, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+
+combined4.png
+size: 64,32
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+resources/coal
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+resources/iron_ore
+  rotate: false
+  xy: 19, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+resources/steel
+  rotate: false
+  xy: 37, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+
+combined5.png
+size: 256,32
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+tiles/brick_tile
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tiles/cobble_tile
+  rotate: false
+  xy: 19, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tiles/dry_tile
+  rotate: false
+  xy: 37, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tiles/granite_wall
+  rotate: false
+  xy: 55, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tiles/grass_tile
+  rotate: false
+  xy: 73, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tiles/hover
+  rotate: false
+  xy: 91, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tiles/select
+  rotate: false
+  xy: 109, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tiles/steel_tile
+  rotate: false
+  xy: 127, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tiles/stone_wall
+  rotate: false
+  xy: 145, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tiles/test_tile
+  rotate: false
+  xy: 163, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+
+combined6.png
+size: 512,256
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+ui/bar_mid_empty
+  rotate: false
+  xy: 491, 151
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ui/bar_mid_full
+  rotate: false
+  xy: 1, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ui/bar_side_empty
+  rotate: false
+  xy: 393, 101
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ui/bar_side_empty_rot
+  rotate: false
+  xy: 411, 141
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ui/bar_side_full
+  rotate: false
+  xy: 117, 21
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ui/bar_side_full_rot
+  rotate: false
+  xy: 501, 151
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ui/build_menu_canons
+  rotate: false
+  xy: 1, 31
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+ui/build_menu_factories
+  rotate: false
+  xy: 99, 31
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+ui/build_menu_mines
+  rotate: false
+  xy: 197, 31
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+ui/build_menu_none
+  rotate: false
+  xy: 295, 31
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+ui/crystal_icon
+  rotate: false
+  xy: 99, 13
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ui/info_bot
+  rotate: false
+  xy: 1, 21
+  size: 96, 8
+  orig: 96, 8
+  offset: 0, 0
+  index: -1
+ui/info_mid
+  rotate: false
+  xy: 393, 151
+  size: 96, 8
+  orig: 96, 8
+  offset: 0, 0
+  index: -1
+ui/info_top
+  rotate: false
+  xy: 1, 11
+  size: 96, 8
+  orig: 96, 8
+  offset: 0, 0
+  index: -1
+ui/resource_panel
+  rotate: false
+  xy: 393, 111
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
